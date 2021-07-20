@@ -1,4 +1,4 @@
-# OLD_HybridiSpeksi reverse proxy
+# HybridiSpeksi reverse proxy
 
 Nginx server project for deploying HybridiSpeksi websites to production. Nginx is dockerized and pushed with docker hub
 
